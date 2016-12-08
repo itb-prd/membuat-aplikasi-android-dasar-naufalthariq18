@@ -1,10 +1,3 @@
-/* 
- *  Bluetooh Basic: LED ON OFF - Avishkar
- *  Coder - Mayoogh Girish
- *  Website - http://bit.do/Avishkar
- *  Download the App : 
- *  This program lets you to control a LED on pin 13 of arduino using a bluetooth module
- */
 char data = 0;                //Variable for storing received data
 void setup() 
 {
